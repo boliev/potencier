@@ -2,4 +2,5 @@
 -----------------------------------------------
 ###Перевод цикла статей Фабьена Потенсьера
 Исходные коды для статей.<br>
-[Часть 1](http://boliev.ru/potencier_part1)
+[Часть 1](http://boliev.ru/potencier_part1)<br />
+[Часть 2](http://boliev.ru/potencier_part2)<br />
