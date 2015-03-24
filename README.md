@@ -4,3 +4,4 @@
 Исходные коды для статей.<br>
 [Часть 1](http://boliev.ru/potencier_part1)<br />
 [Часть 2](http://boliev.ru/potencier_part2)<br />
+[Часть 3](http://boliev.ru/potencier_part3)<br />
