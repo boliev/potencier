@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b0c8b086e1ee7de7f2e39bd8016f103e",
+    "hash": "45e5c10565522442020b32570c897434",
     "packages": [
         {
             "name": "symfony/class-loader",
@@ -97,6 +97,61 @@
             "description": "Symfony HttpFoundation Component",
             "homepage": "http://symfony.com",
             "time": "2013-08-07 13:58:42"
+        },
+        {
+            "name": "symfony/routing",
+            "version": "v2.1.13",
+            "target-dir": "Symfony/Component/Routing",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/Routing.git",
+                "reference": "6d3732663789b6e1bd79197f9bd0c582cb72da81"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/Routing/zipball/6d3732663789b6e1bd79197f9bd0c582cb72da81",
+                "reference": "6d3732663789b6e1bd79197f9bd0c582cb72da81",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "doctrine/common": "~2.2",
+                "symfony/config": "2.1.*",
+                "symfony/http-kernel": "2.1.*",
+                "symfony/yaml": "2.1.*"
+            },
+            "suggest": {
+                "doctrine/common": "~2.2",
+                "symfony/config": "2.1.*",
+                "symfony/yaml": "2.1.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Symfony\\Component\\Routing": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com",
+                    "homepage": "http://fabien.potencier.org",
+                    "role": "Lead Developer"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "http://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Routing Component",
+            "homepage": "http://symfony.com",
+            "time": "2013-05-06 10:48:41"
         }
     ],
     "packages-dev": [],
