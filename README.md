@@ -7,3 +7,4 @@
 [Часть 3](http://boliev.ru/potencier_part3)<br />
 [Часть 4](http://boliev.ru/potencier_part4)<br />
 [Часть 5](http://boliev.ru/potencier_part5)<br />
+[Часть 6](http://boliev.ru/potencier_part6)<br />
