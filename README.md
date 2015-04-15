@@ -12,3 +12,4 @@
 [Часть 08](http://boliev.ru/potencier_part8)<br />
 [Часть 09](http://boliev.ru/potencier_part9)<br />
 [Часть 10](http://boliev.ru/potencier_part10)<br />
+[Часть 11](http://boliev.ru/potencier_part11)<br />
